@@ -1,0 +1,16 @@
+Dwarf Mountain
+
+  Lonely Dwarf. Last of his descendent. Found a Nice place to settle.
+
+
+  But Dragon is coming in 100 days! Can he fight him off?
+
+  (Win condition, either fight him off or bribe him with mining gold!)
+
+  Turn Based Survival
+
+    Morning / Afternoon Activities
+
+    [1] Farming
+    [2] Mining
+    [3] Dungeonineering

@@ -1,0 +1,10 @@
+9
+placers
+trendies
+parleys
+streets
+rearing
+maleness
+enraged
+enlist
+retrains
