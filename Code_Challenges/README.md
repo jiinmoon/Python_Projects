@@ -1,7 +1,8 @@
 #Code Problems
 
-Code challenges from codeabbey.com solved using python. 
-Please, only take a look at the solutions after you have sincerely tried your hardest to solve them.
+These are my Python solutions to the code challenges from "codeabbey.com".
+
+Please, do try only take a look at these solutions after you have sincerely tried your hardest to solve them on your own.
 
 
 
